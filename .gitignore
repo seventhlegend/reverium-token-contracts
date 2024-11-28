@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Hardhat artifacts and cache
+artifacts/
+cache/
+
+# MacOS-specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Yarn and npm dependency lock files
+yarn.lock
+package-lock.json
+
+# Coverage reports
+coverage/
+coverage.json
